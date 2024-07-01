@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="videos/lunar-lander-1rMpv0NYSmiiCGHzS4ge5g-pWlusKK_S4ONk5ZVjI1xbQ.jpeg" style="width: 250px;">
+  <img src="Data/sLf8WFANROO-ARRQrY0LiQ.webp" style="width: 150px;">
   
 </p>
 <h1 align="center">Clasificación multietiqueta de Tweets en español</h1>
