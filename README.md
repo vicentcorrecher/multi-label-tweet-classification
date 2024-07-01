@@ -2,7 +2,7 @@
   <img src="videos/lunar-lander-1rMpv0NYSmiiCGHzS4ge5g-pWlusKK_S4ONk5ZVjI1xbQ.jpeg" style="width: 250px;">
   
 </p>
-<h1 align="center">Clasificación multietiqueta de Tweets en Español</h1>
+<h1 align="center">Clasificación multietiqueta de Tweets en español</h1>
 
 
 
